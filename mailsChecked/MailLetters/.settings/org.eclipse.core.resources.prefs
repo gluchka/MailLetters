@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/test/java/AllGoogleTest.java=UTF-8
+encoding//src/test/java/AllIUaTest.java=UTF-8
+encoding//src/test/java/mail/gooogle/googleHelper/StepsGoogle.java=UTF-8
+encoding//src/test/java/mail/gooogle/pages/DraftGoogle.java=UTF-8
+encoding//src/test/java/mail/gooogle/pages/LoginGoogle.java=UTF-8
+encoding//src/test/java/mail/gooogle/pages/LogoutGoogle.java=UTF-8
+encoding//src/test/java/mail/gooogle/pages/PersAccountGoogle.java=UTF-8
+encoding//src/test/java/mail/gooogle/pages/SendLetterGoogle.java=UTF-8
+encoding//src/test/java/mail/iua/pages/LoginPage.java=UTF-8
+encoding//src/test/java/mail/iua/pages/MailPage.java=UTF-8
+encoding//src/test/java/mail/yaru/pages/WriteLetterYaRu.java=UTF-8
+encoding//src/test/java/mail/yaru/yaruHelper/StepsYaRu.java=Cp1251
